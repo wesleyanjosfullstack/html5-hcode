@@ -7,3 +7,5 @@ Objetivo deste curso e aprender sobre as tags da *HTML5*, aqui estão os arquivo
 ## Seção
 
 [atributos globais](https://github.com/wesleyanjosfullstack/html5-hcode/tree/main/atributos-globais)
+
+[tags](https://github.com/wesleyanjosfullstack/html5-hcode/tree/main/tags)
